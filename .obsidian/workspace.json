@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "47cd9ac4100763c1",
@@ -206,7 +207,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9995eef2ef421a68",
+  "active": "08d29c12ac4b18f4",
   "lastOpenFiles": [
     "prueba.py",
     "README.md",
