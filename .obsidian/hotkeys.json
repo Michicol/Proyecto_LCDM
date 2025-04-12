@@ -1,0 +1,19 @@
+{
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "media-extended:get-timestamp": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ]
+}

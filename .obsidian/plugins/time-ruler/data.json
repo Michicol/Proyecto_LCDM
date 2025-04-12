@@ -1,0 +1,41 @@
+{
+  "calendars": [],
+  "fieldFormat": "dataview",
+  "muted": false,
+  "timerEvent": "notification",
+  "inbox": null,
+  "search": "",
+  "taskSearch": "",
+  "fileOrder": [
+    "5 Semestre/Experimental/Experimento de Young",
+    "5 Semestre/Experimental/Polarización por reflexión",
+    "5 Semestre/Experimental/Refracción",
+    "5 Semestre/Óptica/Cap 2 Movimiento ondulatorio",
+    "5 Semestre/Óptica/Óptica geométrica",
+    "8 semestre/Mecánica cuántica/Función de onda",
+    "8 semestre/Mecánica cuántica/Primer capitulo",
+    "8 semestre/Mecánica cuántica/Sin título",
+    "Autodidacta/Álgebra lineal/1. Espacios vectoriales",
+    "Plantillas/tpl.Notas",
+    "Plantillas/tpl.Notas Escuela",
+    "Redes neuronales/Tensorflow/Sin título"
+  ],
+  "customStatus": {
+    "include": false,
+    "statuses": "-"
+  },
+  "showCompleted": false,
+  "groupBy": "path",
+  "dayStartEnd": [
+    0,
+    24
+  ],
+  "twentyFourHourFormat": false,
+  "filterFunction": "",
+  "addTaskToEnd": false,
+  "extendBlocks": false,
+  "hideTimes": false,
+  "borders": true,
+  "viewMode": "day",
+  "scheduledSubtasks": true
+}
