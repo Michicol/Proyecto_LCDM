@@ -1,5 +1,5 @@
 
-E# Proyecto $\Lambda CDM$
+# Proyecto $\Lambda CDM$
 
 En la presente notebook, en forma de resumen, se muestran resultados teóricos, así como el código que se utiliza para hacer estimaciones, de tal forma de corroborar la teoría.
 
