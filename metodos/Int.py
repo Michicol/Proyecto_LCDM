@@ -3,7 +3,7 @@ import numpy as np
 
 class Integral:
     @staticmethod
-    def SumaInferior(a, b, dom, *args):
+    def SumaInferior(a, b, dom, f, *args):
         """
         a -> es el valor donde inicia el intervalo
         b -> el valor donde termina el intervalo
