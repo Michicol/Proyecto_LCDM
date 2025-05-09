@@ -69,4 +69,4 @@ Además, el tensor de energía-momento tiene la forma siguiente.
 
 $$\left(T^\mu_{\nu}\right) = diag(\rho,-P,-P,-P)$$
 
-Donde $\rho$ corresponde a la densidad de energía y $P$ la presión del fluido, de manera que el universo se puede modelar como un fluido perfecto.sta es una prueba para ver si funciona, combinado con obsidian 
+Donde $\rho$ corresponde a la densidad de energía y $P$ la presión del fluido, de manera que el universo se puede modelar como un fluido perfecto.
