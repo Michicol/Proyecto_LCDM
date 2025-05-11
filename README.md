@@ -96,6 +96,7 @@ $$
 $$
 -3\frac{\ddot{a}}{a} + \frac{6}{2}\left[\frac{\ddot{a}}{a} + \left(\frac{\dot{a}}{a}\right)^2+\frac{k}{a^2}\right]=8\pi\rho
 $$
+
 Simplificando lo anterior nos queda lo siguiente 
 
 $$\begin{equation}
