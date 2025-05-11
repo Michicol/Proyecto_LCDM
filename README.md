@@ -73,14 +73,29 @@ Donde $\rho$ corresponde a la densidad de energía y $P$ la presión del fluido,
 
 Por otra parte las componentes no nulas del tensor de Ricci están dadas de la siguiente manera 
 
-$$\begin{align}R_{00} &= -3 \frac{\ddot{a}}{a}\\ R_{ij} &= -\left[\frac{\ddot{a}}{a} + 2\left(\frac{\dot{a}}{a}\right)^2 +2\frac{k}{a^2}\right]g_{ij}\end{align}$$
+$$
+R_{00} = -3 \frac{\ddot{a}}{a}
+$$
+
+$$
+R_{ij} = -\left[\frac{\ddot{a}}{a} + 2\left(\frac{\dot{a}}{a}\right)^2 +2\frac{k}{a^2}\right]g_{ij}
+$$
+
+y el escalar de Ricci 
+
+$$
+R = -6 \left[\frac{\ddot{a}}{a} + \left(\frac{\dot{a}}{a}\right)^2+\frac{k}{a^2}\right]
+$$
 
 Si consideramos la componente $(\mu,\nu)=(0,0)$  de la ecuacion de Einstein, y sustituyendo lo anterior, que son las compnente no nulas del tensor de Ricci, nos queda lo siguiente.
 
-$$\begin{align}
-R_{00}-\frac{1}{2}g_{00}R &= 8\pi T_{00}\\
--3\frac{\ddot{a}}{a} + \frac{6}{2}\left[\frac{\ddot{a}}{a} + \left(\frac{\dot{a}}{a}\right)^2+\frac{k}{a^2}\right]&=8\pi\rho\\
-\end{align}$$
+$$
+R_{00}-\frac{1}{2}g_{00}R = 8\pi T_{00}
+$$
+
+$$
+-3\frac{\ddot{a}}{a} + \frac{6}{2}\left[\frac{\ddot{a}}{a} + \left(\frac{\dot{a}}{a}\right)^2+\frac{k}{a^2}\right]=8\pi\rho
+$$
 Simplificando lo anterior nos queda lo siguiente 
 
 $$\begin{equation}
